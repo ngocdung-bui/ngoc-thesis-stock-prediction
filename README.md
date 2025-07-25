@@ -1,2 +1,2 @@
-# ngoc-thesis-stock-predicton
+# ngoc-thesis-stock-prediction
 code implementation for my thesis research 
