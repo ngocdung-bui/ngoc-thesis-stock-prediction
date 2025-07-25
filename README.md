@@ -118,20 +118,6 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@misc{hybrid-stock-prediction,
-  title={Hybrid Stock Market Prediction using LSTM and FinBERT},
-  author={Your Name},
-  year={2024},
-  publisher={GitHub},
-  url={https://github.com/[username]/hybrid-stock-prediction}
-}
-```
-
 ## Contact
 
 For questions or support, please contact [buind173@gmail.com](mailto:buind173@gmail.com)
